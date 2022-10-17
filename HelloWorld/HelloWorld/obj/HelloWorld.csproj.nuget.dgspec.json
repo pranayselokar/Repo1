@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prana\\OneDrive\\Desktop\\Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\prana\\OneDrive\\Desktop\\code\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prana\\OneDrive\\Desktop\\Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\prana\\OneDrive\\Desktop\\code\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prana\\OneDrive\\Desktop\\Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\prana\\OneDrive\\Desktop\\code\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\prana\\OneDrive\\Desktop\\Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\prana\\OneDrive\\Desktop\\code\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\prana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prana\\OneDrive\\Desktop\\Project\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\prana\\OneDrive\\Desktop\\code\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prana\\AppData\\Roaming\\NuGet\\NuGet.Config",
