@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BICLOvT6GmLE4RkAYSFuOb4XGQMjyjsp3MlCBEEfsPZ/NQPfG22YmXZa56+51sfhbymXteJTZTA7wVhzwm1qdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prana\\OneDrive\\Desktop\\Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
