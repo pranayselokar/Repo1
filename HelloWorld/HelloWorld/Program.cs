@@ -15,6 +15,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good Evening");
+            Console.WriteLine("Added new line");
             Method1();
           
         }
